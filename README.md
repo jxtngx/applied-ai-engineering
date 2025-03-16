@@ -9,4 +9,4 @@ end-to-end post training flow with torchao, torchtune, and agent application wit
 > see [llamastack-cookbook](https://github.com/jxtngx/llamastack-cookbook) for additional agent examples
 
 > [!IMPORTANT]
-> using this template requires an AWS account and knowledge of EC2 deep learning AMIs
+> using this template requires an AWS account and knowledge of EC2 deep learning AMIs and bedrock
