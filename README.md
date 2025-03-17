@@ -1,4 +1,4 @@
-# Applied Llama Engineering
+# Applied AI Engineering
 
 An e2e post-training flow with torchao and torchtune, and agent application with Llama Stack.
 
